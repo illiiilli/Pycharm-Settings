@@ -68,10 +68,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589362250373">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/Dummy.txt" timestamp="1589372661395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Alternative versions/[Alby] - final-microcar-finally-done.py" timestamp="1572084265242">
         <mark key="[" line="126" column="36" />
@@ -117,8 +117,8 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589362114855">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589372638355">
+        <mark key="'" line="42" column="9" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="95" />
         <mark key="." line="1" column="94" />
@@ -210,6 +210,7 @@
       <jump line="119" column="29" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
       <jump line="100" column="12" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="42" column="9" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -260,9 +261,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>csv</last-search>
+      <last-search>.idea</last-search>
       <last-offset />
-      <last-pattern>csv</last-pattern>
+      <last-pattern>.idea</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
