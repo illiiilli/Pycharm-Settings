@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\.gitignore'" />
-    <option name="defaultScopeName" value="File '...\.gitignore'" />
-    <option name="SEARCH_SCOPE" value="File '...\.gitignore'" />
+    <option name="customScope" value="Project 'PC-CITS3403-P2'" />
+    <option name="defaultScopeName" value="Project 'PC-CITS3403-P2'" />
+    <option name="SEARCH_SCOPE" value="Project 'PC-CITS3403-P2'" />
   </component>
 </application>
