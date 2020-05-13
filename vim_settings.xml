@@ -60,6 +60,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -127,17 +130,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589361307408">
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="95" />
-        <mark key="." line="325" column="94" />
-        <mark key="^" line="325" column="95" />
-      </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 3/input.py" timestamp="1568656877856">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589362114855">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="95" />
+        <mark key="." line="1" column="94" />
+        <mark key="^" line="1" column="95" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 2/Lab 3 Part 2.py" timestamp="1571992977801">
         <mark key="'" line="644" column="0" />
@@ -152,6 +150,7 @@
         <mark key="^" line="57" column="18" />
         <mark key="." line="60" column="18" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/app/__init__.py" timestamp="1589361662322" />
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" timestamp="1572084121926">
         <mark key="'" line="101" column="12" />
         <mark key="[" line="159" column="0" />
@@ -207,6 +206,7 @@
       <jump line="90" column="51" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
       <jump line="119" column="29" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
       <jump line="100" column="12" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
