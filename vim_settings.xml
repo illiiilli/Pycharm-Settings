@@ -1,6 +1,28 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>Question</entry>
+        <entry encoding="base64">XDxPcHRpb25cPg==</entry>
+        <entry encoding="base64">XDx0b3dlcl9oZWlnaHRcPg==</entry>
+        <entry>where</entry>
+        <entry>arrange</entry>
+        <entry encoding="base64">XDxhX3ZfZGlzcFw+</entry>
+        <entry>csv</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+        <entry>set rnu</entry>
+        <entry>set nu</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
@@ -39,11 +61,215 @@
         <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1572421374343">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Alternative versions/[Alby] - final-microcar-finally-done.py" timestamp="1572084265242">
+        <mark key="[" line="126" column="36" />
+        <mark key="]" line="129" column="25" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Alternative versions/[Pat] - lab3_draft.py" timestamp="1572084202313">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="25" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1572421224351">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859_old.py" timestamp="1572025202177">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Matt/Matt.py" timestamp="1568666747987">
+        <mark key="[" line="64" column="47" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1572074200288">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Chen_22531859.py" timestamp="1568969404680">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="65" />
+        <mark key="]" line="36" column="65" />
+        <mark key="." line="36" column="65" />
+        <mark key="^" line="36" column="65" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/[Dan] - Microcar-final-hopefully.py" timestamp="1572070153076">
+        <mark key="[" line="53" column="73" />
+        <mark key="]" line="53" column="73" />
+        <mark key="." line="53" column="74" />
+        <mark key="^" line="15" column="72" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 3/Lab 3 Part 3.py" timestamp="1571986166953">
+        <mark key="'" line="419" column="0" />
+        <mark key="[" line="657" column="28" />
+        <mark key="]" line="657" column="29" />
+        <mark key="." line="657" column="29" />
+        <mark key="^" line="657" column="15" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Matt/Lim_22510089.py" timestamp="1568969773903">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Alternative versions/[Alby] - final-microcar-albert.py" timestamp="1572083502633">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589361307408">
+        <mark key="[" line="325" column="0" />
+        <mark key="]" line="325" column="95" />
+        <mark key="." line="325" column="94" />
+        <mark key="^" line="325" column="95" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 3/input.py" timestamp="1568656877856">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 2/Lab 3 Part 2.py" timestamp="1571992977801">
+        <mark key="'" line="644" column="0" />
+        <mark key="[" line="542" column="21" />
+        <mark key="]" line="540" column="53" />
+        <mark key="." line="542" column="23" />
+        <mark key="^" line="540" column="53" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/lab3_draft - pat.py" timestamp="1572068946757">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="80" />
+        <mark key="^" line="57" column="18" />
+        <mark key="." line="60" column="18" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" timestamp="1572084121926">
+        <mark key="'" line="101" column="12" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="160" column="25" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Age.py" timestamp="1571056388117">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/-CITS2401_Lab_3_Part_1_Sem_2_2019.pdf.url" timestamp="1571985014425">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Jeff - Microcar-Final.py" timestamp="1571988875031">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="39" column="21" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="41" column="26" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="20" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="35" column="2" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="38" column="14" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="7" column="9" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="26" column="9" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="31" column="9" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="125" column="19" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="277" column="5" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="0" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="304" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 1/Lab 2 Part 1.py" />
+      <jump line="157" column="9" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 3/Lab 2 Part 3.py" />
+      <jump line="3" column="62" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Chen_22531859.py" />
+      <jump line="8" column="25" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Chen_22531859.py" />
+      <jump line="39" column="44" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Chen_22531859.py" />
+      <jump line="0" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401 Computer Analysis and Visualisation/Labs/Lab 2/Part 4/Chen_22531859.py" />
+      <jump line="336" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 2/Lab 3 Part 2.py" />
+      <jump line="444" column="2" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 2/Lab 3 Part 2.py" />
+      <jump line="509" column="9" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 2/Lab 3 Part 2.py" />
+      <jump line="638" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 2/Lab 3 Part 2.py" />
+      <jump line="42" column="16" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 3/Lab 3 Part 3.py" />
+      <jump line="291" column="72" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 3/Lab 3 Part 3.py" />
+      <jump line="419" column="0" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 3/Lab 3 Part 3.py" />
+      <jump line="15" column="29" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="30" column="57" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="64" column="23" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="24" column="4" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="101" column="56" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="90" column="51" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="119" column="29" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+      <jump line="100" column="12" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBFbmQgb2YgaHR0cHM6Ly93d3cuZ2l0aWdub3JlLmlvL2FwaS92aW0sbGludXgsZmxhc2sscHl0aG9uLHdpbmRvd3MsamV0YnJhaW5zLHZpc3VhbHN0dWRpb2NvZGUK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">YWN0dWFsX2ZpbmFsX3NjYXR0ZXIgPSA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>csv</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBsdC54bGltKCgtMzAwLCAzMDApKQogICAgcGx0LnlsaW0oKC0zMDAsIDMwMCkpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">IyBFbmQgb2YgaHR0cHM6Ly93d3cuZ2l0aWdub3JlLmlvL2FwaS92aW0sbGludXgsZmxhc2sscHl0aG9uLHdpbmRvd3MsamV0YnJhaW5zLHZpc3VhbHN0dWRpb2NvZGUK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LmlkZWEvLmdpdGlnbm9yZQouaWRlYS9QQy1DSVRTMzQwMy1QMi5pbWwKLmlkZWEvZGF0YVNvdXJjZXMueG1sCi5pZGVhL2luc3BlY3Rpb25Qcm9maWxlcy8KLmlkZWEvbWlzYy54bWwKLmlkZWEvbW9kdWxlcy54bWwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">LmlkZWEvdmNzLnhtbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LmlkZWEvLmdpdGlnbm9yZQouaWRlYS9QQy1DSVRTMzQwMy1QMi5pbWwKLmlkZWEvZGF0YVNvdXJjZXMueG1sCi5pZGVhL2luc3BlY3Rpb25Qcm9maWxlcy8KLmlkZWEvbWlzYy54bWwKLmlkZWEvbW9kdWxlcy54bWwKLmlkZWEvdmNzLnhtbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text>Reorganise /Labs/Lab 3/Part 1
+Move Alternative versions</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBsdC54bGltKGFjdHVhbG1pbiwgYWN0dWFsbWF4KQogICAgcGx0LnlsaW0oYWN0dWFsbWluLCBhY3R1YWxtYXgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cGxvdG1pY3JvY2FyKFsnZXhwMS5jc3YnLCAnZXhwMi5jc3YnXSwgWydhY3QxLmNzdicsICdhY3QyLmNzdiddKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text>screwing around with plots x2</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBsdC50aXRsZSgnRXhwZWN0ZWQgRmluYWwgRGlzcGxhY2VtZW50JykK</text>
+      </register>
+      <register name=":" type="4">
+        <text>set nu</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>csv</last-search>
+      <last-offset />
+      <last-pattern>csv</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
     </notifications>
   </component>
 </application>
