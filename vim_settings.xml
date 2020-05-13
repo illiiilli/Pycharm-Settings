@@ -12,6 +12,10 @@
         <entry>arrange</entry>
         <entry encoding="base64">XDxhX3ZfZGlzcFw+</entry>
         <entry>csv</entry>
+        <entry>.idea</entry>
+        <entry>venv</entry>
+        <entry>vscode</entry>
+        <entry>git</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -117,8 +121,8 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589372638355">
-        <mark key="'" line="42" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589373546220">
+        <mark key="'" line="185" column="45" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="95" />
         <mark key="." line="1" column="94" />
@@ -154,12 +158,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Age.py" timestamp="1571056388117">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/-CITS2401_Lab_3_Part_1_Sem_2_2019.pdf.url" timestamp="1571985014425">
         <mark key="[" line="0" column="0" />
@@ -211,27 +209,55 @@
       <jump line="100" column="12" filename="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Chen_22531859.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
       <jump line="42" column="9" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="281" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="284" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="338" column="21" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="1" column="25" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="2" column="22" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="6" column="11" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="185" column="45" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Linted using 
+
+https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
+
+Which is roughly based off of the following:
+https://google.github.io/styleguide/htmlcssguide.html
+https://google.github.io/styleguide/pyguide.html</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsX2ZpbmFsX3NjYXR0ZXIgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>csv</text>
+        <text>git</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsdC54bGltKCgtMzAwLCAzMDApKQogICAgcGx0LnlsaW0oKC0zMDAsIDMwMCkpCg==</text>
+        <text>Linted using 
+
+https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
+
+Which is roughly based off of the following:
+https://google.github.io/styleguide/htmlcssguide.html
+https://google.github.io/styleguide/pyguide.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Linted using 
+
+https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
+
+Which is roughly based off of the following:
+https://google.github.io/styleguide/htmlcssguide.html
+https://google.github.io/styleguide/pyguide.html</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Edit .gitignore file 
+
+https://www.gitignore.io/api/vim,linux,flask,python,windows,jetbrains,virtualenv,visualstudiocode</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -246,10 +272,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBFbmQgb2YgaHR0cHM6Ly93d3cuZ2l0aWdub3JlLmlvL2FwaS92aW0sbGludXgsZmxhc2sscHl0aG9uLHdpbmRvd3MsamV0YnJhaW5zLHZpc3VhbHN0dWRpb2NvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>https://www.gitignore.io/api/vim,linux,flask,python,windows,jetbrains,visualstudiocode</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">IyBFbmQgb2YgaHR0cHM6Ly93d3cuZ2l0aWdub3JlLmlvL2FwaS92aW0sbGludXgsZmxhc2sscHl0aG9uLHdpbmRvd3MsamV0YnJhaW5zLHZpc3VhbHN0dWRpb2NvZGUK</text>
@@ -261,9 +287,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>.idea</last-search>
+      <last-search>git</last-search>
       <last-offset />
-      <last-pattern>.idea</last-pattern>
+      <last-pattern>git</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
