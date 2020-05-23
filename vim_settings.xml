@@ -16,6 +16,7 @@
         <entry>venv</entry>
         <entry>vscode</entry>
         <entry>git</entry>
+        <entry>idea</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -121,8 +122,8 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589373546220">
-        <mark key="'" line="185" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589373610621">
+        <mark key="'" line="305" column="19" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="95" />
         <mark key="." line="1" column="94" />
@@ -217,6 +218,7 @@
       <jump line="2" column="22" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
       <jump line="6" column="11" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
       <jump line="185" column="45" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="305" column="19" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -234,7 +236,7 @@ https://google.github.io/styleguide/pyguide.html</text>
         <text encoding="base64">YWN0dWFsX2ZpbmFsX3NjYXR0ZXIgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>idea</text>
       </register>
       <register name="0" type="2">
         <text>Linted using 
@@ -287,9 +289,9 @@ https://www.gitignore.io/api/vim,linux,flask,python,windows,jetbrains,virtualenv
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>git</last-search>
+      <last-search>idea</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>idea</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
