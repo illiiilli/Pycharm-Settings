@@ -87,22 +87,10 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590256546033">
+      <file name="/Dummy.txt" timestamp="1590258037210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1590251851544">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/.flaskenv" timestamp="1590250509936">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/index.html" timestamp="1590252786390">
         <mark key="[" line="7" column="0" />
@@ -144,17 +132,17 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/README.md" timestamp="1590258021797">
+        <mark key="[" line="33" column="46" />
+        <mark key="]" line="33" column="59" />
+        <mark key="^" line="33" column="59" />
+        <mark key="." line="33" column="58" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/admin/admin.html" timestamp="1590254932624">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="31" />
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/microblog.py" timestamp="1590251550521">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590255711537">
         <mark key="[" line="38" column="43" />
@@ -167,6 +155,12 @@
         <mark key="[" line="5" column="61" />
         <mark key="]" line="5" column="61" />
         <mark key="." line="5" column="61" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/gen_csv_git_logs.sh" timestamp="1590257808484">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="45" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/submit.html" timestamp="1590252893295">
         <mark key="[" line="8" column="0" />
@@ -255,49 +249,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Index now uses base.html
-
-Adapted from:
-https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates</text>
+        <text encoding="base64">IyAlcyA9IHN1YmplY3QK</text>
       </register>
       <register name="-" type="4">
-        <text>Mark</text>
+        <text>Launching</text>
       </register>
       <register name="/" type="4">
         <text>.vscode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">eyUgZXh0ZW5kcyAnYWRtaW4vYWRtaW5fYmFzZS5odG1sJyAlfQp7JSBibG9jayB0aXRsZSAlfQogIE1hcmsgU3VibWl0dGVkIFF1ZXN0aW9ucwp7JSBlbmRibG9jayAlfQp7JSBibG9jayBjb250ZW50ICV9CiAgPGgxPk1hcmsgU3VibWl0dGVkIFF1ZXN0aW9uczwvaDE+CnslIGVuZGJsb2NrICV9</text>
+        <text encoding="base64">IyAlcyA9IHN1YmplY3QK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">awo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">MS4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">MS4K</text>
+      </register>
+      <register name="4" type="2">
         <text>Index now uses base.html
 
 Adapted from:
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text>Lint</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text>Fix routing links</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">eyUgaWYgICV9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBNYXJrIFN1Ym1pdHRlZCBRdWVzdGlvbnMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGRpdiBpZD0iYWRtaW4tbmF2Ij4KICA8bmF2PgogICAgPGEgaHJlZj0iYV9fbWFya2luZy5odG1sIj5NYXJraW5nPC9hPiB8CiAgICA8YSBocmVmPSJhX19xX2VkaXQuaHRtbCI+RWRpdDwvYT4KICA8L25hdj4KPC9kaXY+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5NYXJrIHN1Ym1pdHRlZCBxdWVzdGlvbnMgaGVyZSAoQWRtaW4gVXNlIE9ubHkpPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPGRpdiBjbGFzcz0iYWRtaW4tcGFnZS1ib2R5Ij4KICA8aDE+SG93IG9kZCBhcmUgeW91PzwvaDE+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFwcC5yb3V0ZSgnL2luZGV4Lmh0bWwnKQo=</text>
+        <text encoding="base64">ICBNYXJrIFN1Ym1pdHRlZCBRdWVzdGlvbnMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
