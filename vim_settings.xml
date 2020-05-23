@@ -17,6 +17,7 @@
         <entry>vscode</entry>
         <entry>git</entry>
         <entry>idea</entry>
+        <entry>.vscode</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -73,7 +74,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589372661395">
+      <file name="/Dummy.txt" timestamp="1590215554615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -110,20 +111,19 @@
         <mark key="." line="53" column="74" />
         <mark key="^" line="15" column="72" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 3/Lab 3 Part 3.py" timestamp="1571986166953">
-        <mark key="'" line="419" column="0" />
-        <mark key="[" line="657" column="28" />
-        <mark key="]" line="657" column="29" />
-        <mark key="." line="657" column="29" />
-        <mark key="^" line="657" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/README.md" timestamp="1590214588256">
+        <mark key="[" line="4" column="66" />
+        <mark key="]" line="4" column="66" />
+        <mark key="^" line="4" column="66" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Alternative versions/[Alby] - final-microcar-albert.py" timestamp="1572083502633">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1589373610621">
-        <mark key="'" line="305" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1590214668958">
+        <mark key="'" line="139" column="17" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="95" />
         <mark key="." line="1" column="94" />
@@ -160,20 +160,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/-CITS2401_Lab_3_Part_1_Sem_2_2019.pdf.url" timestamp="1571985014425">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/app/templates/index.html" timestamp="1589370691540">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="4" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="6" column="4" />
-      </file>
-      <file name="D:/Users/Alan Chen Desktop/Google Drive/Alan Chen/Study/Periods/Uni/Year 2/Semester 2/CITS2401/Labs/Lab 3/Part 1/Jeff - Microcar-Final.py" timestamp="1571988875031">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="39" column="21" />
       </file>
     </filemarks>
     <jumps>
@@ -219,24 +210,19 @@
       <jump line="6" column="11" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
       <jump line="185" column="45" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
       <jump line="305" column="19" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
+      <jump line="139" column="17" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Linted using 
-
-https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
-
-Which is roughly based off of the following:
-https://google.github.io/styleguide/htmlcssguide.html
-https://google.github.io/styleguide/pyguide.html</text>
+        <text>Yeet for .idea</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YWN0dWFsX2ZpbmFsX3NjYXR0ZXIgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>.vscode</text>
       </register>
       <register name="0" type="2">
         <text>Linted using 
@@ -248,6 +234,9 @@ https://google.github.io/styleguide/htmlcssguide.html
 https://google.github.io/styleguide/pyguide.html</text>
       </register>
       <register name="1" type="2">
+        <text>Yeet for .idea</text>
+      </register>
+      <register name="2" type="2">
         <text>Linted using 
 
 https://github.com/HPI-Information-Systems/Metanome/wiki/Installing-the-google-styleguide-settings-in-intellij-and-eclipse
@@ -256,13 +245,10 @@ Which is roughly based off of the following:
 https://google.github.io/styleguide/htmlcssguide.html
 https://google.github.io/styleguide/pyguide.html</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text>Edit .gitignore file 
 
 https://www.gitignore.io/api/vim,linux,flask,python,windows,jetbrains,virtualenv,visualstudiocode</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -280,7 +266,7 @@ https://www.gitignore.io/api/vim,linux,flask,python,windows,jetbrains,virtualenv
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBFbmQgb2YgaHR0cHM6Ly93d3cuZ2l0aWdub3JlLmlvL2FwaS92aW0sbGludXgsZmxhc2sscHl0aG9uLHdpbmRvd3MsamV0YnJhaW5zLHZpc3VhbHN0dWRpb2NvZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
@@ -289,9 +275,9 @@ https://www.gitignore.io/api/vim,linux,flask,python,windows,jetbrains,virtualenv
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>idea</last-search>
+      <last-search>.vscode</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern>.vscode</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
