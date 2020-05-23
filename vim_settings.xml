@@ -87,7 +87,7 @@
         <mark key="." line="15" column="21" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590256413735">
+      <file name="/Dummy.txt" timestamp="1590256546033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -255,7 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Lint</text>
+        <text>Index now uses base.html
+
+Adapted from:
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates</text>
       </register>
       <register name="-" type="4">
         <text>Mark</text>
@@ -267,31 +270,34 @@
         <text encoding="base64">eyUgZXh0ZW5kcyAnYWRtaW4vYWRtaW5fYmFzZS5odG1sJyAlfQp7JSBibG9jayB0aXRsZSAlfQogIE1hcmsgU3VibWl0dGVkIFF1ZXN0aW9ucwp7JSBlbmRibG9jayAlfQp7JSBibG9jayBjb250ZW50ICV9CiAgPGgxPk1hcmsgU3VibWl0dGVkIFF1ZXN0aW9uczwvaDE+CnslIGVuZGJsb2NrICV9</text>
       </register>
       <register name="1" type="2">
-        <text>Lint</text>
+        <text>Index now uses base.html
+
+Adapted from:
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates</text>
       </register>
       <register name="2" type="2">
-        <text>Fix routing links</text>
+        <text>Lint</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text>Fix routing links</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eyUgaWYgICV9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBNYXJrIFN1Ym1pdHRlZCBRdWVzdGlvbnMK</text>
+        <text encoding="base64">eyUgaWYgICV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBpZD0iYWRtaW4tbmF2Ij4KICA8bmF2PgogICAgPGEgaHJlZj0iYV9fbWFya2luZy5odG1sIj5NYXJraW5nPC9hPiB8CiAgICA8YSBocmVmPSJhX19xX2VkaXQuaHRtbCI+RWRpdDwvYT4KICA8L25hdj4KPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBNYXJrIFN1Ym1pdHRlZCBRdWVzdGlvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5NYXJrIHN1Ym1pdHRlZCBxdWVzdGlvbnMgaGVyZSAoQWRtaW4gVXNlIE9ubHkpPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPGRpdiBjbGFzcz0iYWRtaW4tcGFnZS1ib2R5Ij4KICA8aDE+SG93IG9kZCBhcmUgeW91PzwvaDE+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">PGRpdiBpZD0iYWRtaW4tbmF2Ij4KICA8bmF2PgogICAgPGEgaHJlZj0iYV9fbWFya2luZy5odG1sIj5NYXJraW5nPC9hPiB8CiAgICA8YSBocmVmPSJhX19xX2VkaXQuaHRtbCI+RWRpdDwvYT4KICA8L25hdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEFwcC5yb3V0ZSgnL2luZGV4Lmh0bWwnKQo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5NYXJrIHN1Ym1pdHRlZCBxdWVzdGlvbnMgaGVyZSAoQWRtaW4gVXNlIE9ubHkpPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KPGRpdiBjbGFzcz0iYWRtaW4tcGFnZS1ib2R5Ij4KICA8aDE+SG93IG9kZCBhcmUgeW91PzwvaDE+CjwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEFwcC5yb3V0ZSgnL2luZGV4Lmh0bWwnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
