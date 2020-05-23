@@ -70,123 +70,103 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590246049509">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/base.html" timestamp="1590252116290">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1590251851544">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1590235014604">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="1" />
+      <file name="/Python Console" timestamp="1590250100172">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/app/__init__.py" timestamp="1590234900082">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="21" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/.flaskenv" timestamp="1590252017046">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1590232777743">
+      <file name="/fragment.py" timestamp="1590250107178">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1590252009781">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/app/templates/index.html" timestamp="1590245856524">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/app/routes.py" timestamp="1590245911686">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="22" />
-        <mark key="^" line="6" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/README.md" timestamp="1590226476466">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/.gitignore" timestamp="1590231636271">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/a__nav.html" timestamp="1590248839949">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="340" column="97" />
-        <mark key="." line="340" column="96" />
-        <mark key="^" line="340" column="97" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/app.py" timestamp="1590231928517">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="1" column="75" />
-        <mark key="^" line="1" column="75" />
-        <mark key="." line="1" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/__init__.py" timestamp="1590251849091">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/a__q_edit.html" timestamp="1590235294928">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-        <mark key="." line="4" column="35" />
+      <file name="/Dummy.txt" timestamp="1590252443859">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/microblog.py" timestamp="1590234722503">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/.flaskenv" timestamp="1590250509936">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1590231620733">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/app/routes.py" timestamp="1590247298934">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/admin.html" timestamp="1590248411221">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="95" />
-        <mark key="." line="1" column="94" />
-        <mark key="^" line="1" column="95" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/app/templates/base.html" timestamp="1590245923923">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="33" />
-      </file>
-      <file name="/a.sql" timestamp="1590227076649">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/a__q_edit.html" timestamp="1590248833586">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590235143589">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="23" />
-        <mark key="." line="42" column="22" />
-        <mark key="^" line="42" column="23" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/.flaskenv" timestamp="1590233892504">
+      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/microblog.py" timestamp="1590251550521">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-        <mark key="." line="0" column="21" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/config.py" timestamp="1590227208658">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/MGrinbergFlaskTut/src/app/templates/base.html" timestamp="1590249616939">
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO.md" timestamp="1590226198078">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="38" column="9" />
-        <mark key="^" line="38" column="9" />
-        <mark key="." line="38" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590249477170">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="37" />
+        <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/a__marking.html" timestamp="1590227796310">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="55" />
-        <mark key="^" line="4" column="55" />
-        <mark key="." line="4" column="54" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/__init__.py" timestamp="1590235044477">
-        <mark key="[" line="19" column="6" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/nav.html" timestamp="1590248798084">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -244,44 +224,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Initial commit.</text>
+      <register name="&quot;" type="4">
+        <text>prccccccccccccccccc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9ib2R5Pg==</text>
+        <text>prccccccccccccccccc</text>
       </register>
       <register name="/" type="4">
         <text>.vscode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7JSBpZiB0aXRsZSAlfQogICAgPHRpdGxlPnt7IHRpdGxlIH19IC0gTWljcm9ibG9nPC90aXRsZT4KICB7JSBlbHNlICV9CiAgICA8dGl0bGU+V2VsY29tZSB0byBNaWNyb2Jsb2chPC90aXRsZT4KICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">IyBUaGlzIGlzIHRvIHRlbGwgbXkgSURFIHRvIHNodXQgdXAgYW5kIG5vdCBkZWxldGUgc29tZXRoaW5nIHRoYXQgaXMgdXNlZnVsCiMgdGhhdCBpdCB0aGlua3MgaXNuJ3QK</text>
       </register>
       <register name="1" type="2">
-        <text>Initial commit.</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PC9odG1sPg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text>from app import App</text>
+      </register>
+      <register name="4" type="2">
+        <text>import routes</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIHslIGlmIHRpdGxlICV9CiAgICA8dGl0bGU+e3sgdGl0bGUgfX0gLSBNaWNyb2Jsb2c8L3RpdGxlPgogIHslIGVsc2UgJX0KICAgIDx0aXRsZT5XZWxjb21lIHRvIE1pY3JvYmxvZyE8L3RpdGxlPgogIHslIGVuZGlmICV9CjwvaGVhZD4KPGJvZHk+Cg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4KPGRpdiBpZD0iYWRtaW4tbmF2Ij4KICA8bmF2PgogICAgPGEgaHJlZj0iYV9fbWFya2luZy5odG1sIj5NYXJraW5nPC9hPiB8CiAgICA8YSBocmVmPSJxX3NldHMuaHRtbCI+UXVlc3Rpb24gU2V0czwvYT4gfAogICAgPGEgaHJlZj0icmVzdWx0cy5odG1sIj5SZXN1bHRzPC9hPiB8CiAgICA8YSBocmVmPSJzdWJtaXQuaHRtbCI+U3VibWl0IFF1ZXN0aW9uPC9hPiB8CiAgICA8YSBocmVmPSJhZG1pbi5odG1sIj5BZG1pbmlzdHJhdGlvbjwvYT4KICA8L25hdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CjwhRE9DVFlQRSBodG1sPgo8aHRtbCBsYW5nPSJlbiI+CjxoZWFkPgogIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICB7JSBpZiB0aXRsZSAlfQogICAgPHRpdGxlPnt7IHRpdGxlIH19IC0gTWljcm9ibG9nPC90aXRsZT4KICB7JSBlbHNlICV9CiAgICA8dGl0bGU+V2VsY29tZSB0byBNaWNyb2Jsb2chPC90aXRsZT4KICB7JSBlbmRpZiAlfQo8L2hlYWQ+Cjxib2R5Pgo8aDE+SGVsbG8sIHt7IHVzZXIudXNlcm5hbWUgfX0hPC9oMT4KeyUgZm9yIHBvc3QgaW4gcG9zdHMgJX0KICA8ZGl2PjxwPnt7IHBvc3QuYXV0aG9yLnVzZXJuYW1lIH19IHNheXM6IDxlbT57eyBwb3N0LmJvZHkgfX08L2VtPjwvcD48L2Rpdj4KeyUgZW5kZm9yICV9CjwvYm9keT4KPC9odG1sPg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8dGl0bGU+PC90aXRsZT4K</text>
+        <text encoding="base64">eyUgZW5kYmxvY2sgJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
