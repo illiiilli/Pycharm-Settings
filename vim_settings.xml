@@ -93,7 +93,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="14" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590433589777">
+      <file name="/Dummy.txt" timestamp="1590434129859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,11 +114,11 @@
       <file name="/Python Console" timestamp="1590415965013">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" timestamp="1590433141565">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="12" column="139" />
-        <mark key="^" line="12" column="139" />
-        <mark key="." line="12" column="138" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" timestamp="1590434848604">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/admin/a__nav.html" timestamp="1590422324243">
         <mark key="[" line="2" column="25" />
@@ -128,12 +128,6 @@
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1590428356043">
         <mark key="'" line="334" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590433271722">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="61" />
-        <mark key="^" line="3" column="61" />
-        <mark key="." line="3" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/config.py" timestamp="1590433358315">
         <mark key="[" line="17" column="41" />
@@ -149,10 +143,9 @@
         <mark key="." line="74" column="73" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/__init__.py" timestamp="1590431960835">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="14" column="93" />
-        <mark key="." line="14" column="92" />
-        <mark key="^" line="14" column="93" />
+        <mark key="]" line="8" column="93" />
+        <mark key="." line="8" column="92" />
+        <mark key="^" line="8" column="93" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/Makefile" timestamp="1590418550010">
         <mark key="^" line="10" column="6" />
@@ -238,37 +231,39 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxVc2VybmFtZTogIiArIHNlbGYudXNlcm5hbWUgKyAiOyBQYXNzd29yZCBIYXNoOiAiICsgc2VsZi5wYXNzd29yZGhhc2ggKyAiOyBJcyBBZG1pbjogIiArIHNlbGYuYWRtaW4gKyAiPiIK</text>
+        <text encoding="base64">ICAgIGFkbWluID0gZGIuQ29sdW1uKGRiLkJPT0xFQU4sIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>, Column, Integer, String, Boolean, ForeignKey, DateTime, Sequence, Float</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgVGFrZW4gZnJvbSBodHRwczovL2Jsb2cubWlndWVsZ3JpbmJlcmcuY29tL3Bvc3QvdGhlLWZsYXNrLW1lZ2EtdHV0b3JpYWwtcGFydC1pdi1kYXRhYmFzZQogICAgIyBUT0RPOiBGaWd1cmUgb3V0IHdoeSB0aGlzIHdvcmtzCiAgICAjIENoZWNrcyB3aGV0aGVyIGFuIGVudmlyb25tZW50IHZhcmlhYmxlIHNldHMgdGhlIGxvY2F0aW9uIG9mIHRoZSBkYXRhYmFzZSBvciBub3QuCiAgICAjIE90aGVyd2lzZSwgY3JlYXRlcyBhIGRhdGFiYXNlIGNhbGxlZCBhcHAuZGIKICAgICMgQWxzbzoKICAgICMgaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTM5NDQzODcvd2h5LXVzZS1vcy1wYXRoLWpvaW4tb3Zlci1zdHJpbmctY29uY2F0ZW5hdGlvbgogICAgU1FMQUxDSEVNWV9EQVRBQkFTRV9VUkkgPSBvcy5lbnZpcm9uLmdldCgKICAgICAgICAnREFUQUJBU0VfVVJMJykgb3IgJ3NxbGl0ZTovLy8nICsgb3MucGF0aC5qb2luKAogICAgICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKSwgJ2FwcC5kYicpCg==</text>
+        <text encoding="base64">Y2xhc3MgVXNlcihkYi5Nb2RlbCk6CiAgICB1c2VybmFtZSA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIHByaW1hcnlfa2V5PVRydWUsIG51bGxhYmxlPUZhbHNlKQogICAgcGFzc3dvcmRoYXNoID0gZGIuQ29sdW1uKGRiLlN0cmluZywgbnVsbGFibGU9RmFsc2UpCiAgICBhZG1pbiA9IGRiLkNvbHVtbihkYi5CT09MRUFOLCBudWxsYWJsZT1GYWxzZSkKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuICI8VXNlcm5hbWU6ICIgKyBzZWxmLnVzZXJuYW1lICsgIjsgUGFzc3dvcmQgSGFzaDogIiArIHNlbGYucGFzc3dvcmRoYXNoICsgIjsgSXMgQWRtaW46ICIgKyBzZWxmLmFkbWluICsgIj4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxVc2VybmFtZTogIiArIHNlbGYudXNlcm5hbWUgKyAiOyBQYXNzd29yZCBIYXNoOiAiICsgc2VsZi5wYXNzd29yZGhhc2ggKyAiOyBJcyBBZG1pbjogIiArIHNlbGYuYWRtaW4gKyAiPiIK</text>
+        <text encoding="base64">ICAgIGFkbWluID0gZGIuQ29sdW1uKGRiLkJPT0xFQU4sIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkaGFzaCA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVXNlcihkYi5Nb2RlbCk6CiAgICB1c2VybmFtZSA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIHByaW1hcnlfa2V5PVRydWUsIG51bGxhYmxlPUZhbHNlKQogICAgcGFzc3dvcmRoYXNoID0gZGIuQ29sdW1uKGRiLlN0cmluZywgbnVsbGFibGU9RmFsc2UpCiAgICBhZG1pbiA9IGRiLkNvbHVtbihkYi5CT09MRUFOLCBudWxsYWJsZT1GYWxzZSkKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuICI8VXNlcm5hbWU6ICIgKyBzZWxmLnVzZXJuYW1lICsgIjsgUGFzc3dvcmQgSGFzaDogIiArIHNlbGYucGFzc3dvcmRoYXNoICsgIjsgSXMgQWRtaW46ICIgKyBzZWxmLmFkbWluICsgIj4iCiAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHNxbGFsY2hlbXkub3JtCg==</text>
+        <text>Remove all tables but User
+
+Helps me see what's going on (should've branched this though, oops)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmbGFza19zcWxhbGNoZW15IGlwbW9ydCBDb2x1bW4sCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxVc2VybmFtZTogIiArIHNlbGYudXNlcm5hbWUgKyAiOyBQYXNzd29yZCBIYXNoOiAiICsgc2VsZi5wYXNzd29yZGhhc2ggKyAiOyBJcyBBZG1pbjogIiArIHNlbGYuYWRtaW4gKyAiPiIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
