@@ -79,15 +79,19 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/base.html" timestamp="1590407981883">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="119" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/base.html" timestamp="1590421434874">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1590418633988">
         <mark key="[" line="9" column="0" />
@@ -138,16 +142,22 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590419352260">
+      <file name="/Dummy.txt" timestamp="1590421449897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590419880198">
-        <mark key="[" line="65" column="22" />
-        <mark key="]" line="69" column="33" />
-        <mark key="." line="69" column="32" />
-        <mark key="^" line="69" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/admin/a__nav.html" timestamp="1590422324243">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590421803139">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="72" column="38" />
+        <mark key="." line="72" column="37" />
+        <mark key="^" line="72" column="38" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/config.py" timestamp="1590412929243">
         <mark key="[" line="10" column="0" />
@@ -155,23 +165,17 @@
         <mark key="^" line="8" column="97" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/gen_csv_git_logs.sh" timestamp="1590257808484">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="8" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/nav.html" timestamp="1590421748050">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/nav.html" timestamp="1590419371757">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/login.html" timestamp="1590414156199">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="90" />
-        <mark key="^" line="2" column="90" />
-        <mark key="." line="2" column="89" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/login.html" timestamp="1590421194485">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -234,11 +238,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLXN1cHByZXNzIEFMTCAtLT4K</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>.vscode</text>
@@ -247,31 +251,35 @@
         <text encoding="base64">QEFwcC5yb3V0ZSgnbG9naW4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLXN1cHByZXNzIEFMTCAtLT4K</text>
+        <text>Added login form (not functional yet)
+
+Also a bit of linting</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>print(&quot;kms&quot;)</text>
+        <text encoding="base64">PGhyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXllZXQK</text>
+        <text>Added login form (not functional yet)
+
+Also a bit of linting</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXllZXQ=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICMgQ2hlY2tzIGZvciBzdWNjZXNzZnVsIHZhbGlkYXRpb24KICAgIGlmIGZvcm0udmFsaWRhdGVfb25fc3VibWl0KCk6CiAgICAgICAgZmxhc2goJ0xvZ2luIHJlcXVlc3RlZCBmb3IgdXNlciB7fSwgcmVtZW1iZXJfbWV7fScuZm9ybWF0KGZvcm0udXNlcm5hbWUuZGF0YSwgZm9ybS5yZW1lbWJlcl9tZS5kYXRhKSkKICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy9pbmRleCcpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGZvcm0udmFsaWRhdGVfb25fc3VibWl0KCk6CiAgICAgICAgZmxhc2goJ0xvZ2luIHJlcXVlc3RlZCBmb3IgdXNlciB7fSwgcmVtZW1iZXJfbWV7fScuZm9ybWF0KGZvcm0udXNlcm5hbWUuZGF0YSwgZm9ybS5yZW1lbWJlcl9tZS5kYXRhKSkKICAgICAgICByZXR1cm4gcmVkaXJlY3QoJy9pbmRleCcpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">PCEtLXN1cHByZXNzIEFMTCAtLT4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text>print(&quot;kms&quot;)</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFwcC5yb3V0ZSgnc2lnbl9pbicpCg==</text>
+        <text encoding="base64">CXllZXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
