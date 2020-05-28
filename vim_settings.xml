@@ -87,10 +87,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590676678919">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/Dummy.txt" timestamp="1590678728190">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/test/t_addUserJoe.py" timestamp="1590671520628">
         <mark key="[" line="2" column="18" />
@@ -109,7 +109,7 @@
         <mark key="^" line="25" column="2" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1590673373959">
+      <file name="/Python Console" timestamp="1590678039988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO and Dev Notes.md" timestamp="1590669430648">
@@ -130,12 +130,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" timestamp="1590676126298">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" timestamp="1590677991663">
         <mark key="'" line="12" column="76" />
-        <mark key="[" line="41" column="64" />
-        <mark key="]" line="41" column="65" />
-        <mark key="." line="41" column="64" />
-        <mark key="^" line="41" column="65" />
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="43" />
+        <mark key="^" line="33" column="44" />
       </file>
       <file name="/a.dummy" timestamp="1590671562673">
         <mark key="[" line="0" column="12" />
@@ -168,11 +168,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="12" column="92" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/test/t_UserAndStatement.py" timestamp="1590677384970">
-        <mark key="[" line="110" column="59" />
-        <mark key="]" line="118" column="57" />
-        <mark key="." line="118" column="56" />
-        <mark key="^" line="118" column="57" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/test/t_UserAndStatement.py" timestamp="1590678659324">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="116" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO.md" timestamp="1590654832954">
         <mark key="'" line="6" column="10" />
@@ -259,46 +259,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>User</text>
+        <text>working.</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>working.</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZChzKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKAogICAgICAgICAgICAgICAgU3RhdGVtZW50LnF1ZXJ5LmZpbHRlcl9ieShzdGF0ZW1lbnRfdGV4dD0nVVdBIHNob3VsZCBub3QgdXNlIEV4YW1wbGlmeS4nKS5maXJzdCgpLmF1dGhvcl91c2VybmFtZSwKICAgICAgICAgICAgICAgICdqb2UnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICAgICAgVXNlci5xdWVyeS5maWx0ZXJfYnkodXNlcm5hbWU9J2RhbmllbCcpLmZpcnN0KCkudXNlcm5hbWUsCiAgICAgICAgICAgICAgICAnZGFuaWVsJykKICAgICAgICBzZWxmLmFzc2VydEVxdWFsKAogICAgICAgICAgICAgICAgVXNlci5xdWVyeS5maWx0ZXJfYnkodXNlcm5hbWU9J2VsaWphaCcpLmZpcnN0KCkudXNlcm5hbWUsCiAgICAgICAgICAgICAgICAnZWxpamFoJykK</text>
+        <text>Squash bug
+
+Statement.statement_text's datatype has been changed from db.Integer</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZCh1KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChTdGF0ZW1lbnQucXVlcnkuZmlsdGVyX2J5KHN0YXRlbWVudF90ZXh0PSdVV0Egc2hvdWxkIG5vdCB1c2UgRXhhbXBsaWZ5LicpLmZpcnN0KCkuYXV0aG9yX3VzZXJuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmFkZCh1KQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKAogICAgICAgICAgICAgICAgJ2FsYW4nLAogICAgICAgICAgICAgICAgJ2pvZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUFyZ3VtZW50TGlzdAogICAgICAgIHUgPSBVc2VyKHVzZXJuYW1lPSdkYW5pZWwnLCBwYXNzd29yZGhhc2g9J2dlYXNzbWVtZXMnLCB3ZWlyZG5lc3M9NDIsCiAgICAgICAgICAgICAgICAgaXNBZG1pbj1GYWxzZSkKICAgICAgICBkYi5zZXNzaW9uLmFkZCh1KQogICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkKICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUFyZ3VtZW50TGlzdAogICAgICAgIHUgPSBVc2VyKHVzZXJuYW1lPSdlbGlqYWgnLCBwYXNzd29yZGhhc2g9J2xvbmdwaHlzaWNzZm9ybXVsYXMnLAogICAgICAgICAgICAgICAgIHdlaXJkbmVzcz01MCwgaXNBZG1pbj1GYWxzZSkKICAgICAgICBkYi5zZXNzaW9uLmFkZCh1KQogICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1ID0gVXNlcih1c2VybmFtZT0nam9lJywgcGFzc3dvcmRoYXNoPSdsb3Rzb2ZibG9hdCcsIHdlaXJkbmVzcz00MjAsCiAgICAgICAgICAgICAgICAgaXNBZG1pbj1UcnVlKQo=</text>
+        <text>Easter eggs added to t_UserAndStatement.py</text>
       </register>
       <register name="6" type="2">
-        <text>Adding users to the database now works
-
-Minor note:
-There is now a testing class in test/t_UserAndStatement.py</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uLnJvbGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChVc2VyLnF1ZXJ5LmZpbHRlcl9ieSh1c2VybmFtZT0nam9lJykuZmlyc3QoKS51c2VybmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh1c2VyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChVc2VyLnF1ZXJ5LmZpbHRlcl9ieSgnam9lJykuZmlyc3QoKSkK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0X3F1ZXJ5X2FsbCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
