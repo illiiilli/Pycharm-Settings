@@ -1,0 +1,9 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="python:S1481" />
+      </set>
+    </option>
+  </component>
+</application>

@@ -93,7 +93,7 @@
         <mark key="." line="14" column="40" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590694385306">
+      <file name="/Dummy.txt" timestamp="1590701670685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -108,20 +108,16 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1590689599712">
+      <file name="/Python Console" timestamp="1590700851837">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/index.html" timestamp="1590670177484">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/.flaskenv" timestamp="1590699870093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/.flaskenv" timestamp="1590673231886">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="12" />
+      <file name="/fragment.py" timestamp="1590700791643">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" timestamp="1590693388637">
         <mark key="'" line="12" column="76" />
@@ -130,30 +126,35 @@
         <mark key="." line="69" column="33" />
         <mark key="^" line="69" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1590671562673">
-        <mark key="[" line="0" column="12" />
+      <file name="/a.dummy" timestamp="1590698995308">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/console" timestamp="1590691769999">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app.py" timestamp="1590689647920">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app.py" timestamp="1590700321897">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/forms.py" timestamp="1590683387243" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/forms.py" timestamp="1590698557900">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="35" />
+        <mark key="." line="28" column="34" />
+        <mark key="^" line="28" column="35" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.idea/PC-CITS3403-P2.iml" timestamp="1590675175329">
         <mark key="[" line="9" column="65" />
         <mark key="]" line="9" column="69" />
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590692850070">
-        <mark key="[" line="103" column="62" />
-        <mark key="]" line="104" column="38" />
-        <mark key="^" line="104" column="38" />
-        <mark key="." line="104" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590701545030">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="17" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/a.sql" timestamp="1590691046034">
         <mark key="[" line="0" column="0" />
@@ -164,11 +165,11 @@
         <mark key="." line="116" column="23" />
         <mark key="^" line="116" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/register.html" timestamp="1590691724323">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="23" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/register.html" timestamp="1590701500358">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/__init__.py" timestamp="1590672908323">
         <mark key="[" line="31" column="0" />
@@ -180,9 +181,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/login.html" timestamp="1590691131856">
-        <mark key="[" line="26" column="56" />
-        <mark key="]" line="23" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/login.html" timestamp="1590701497280">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="27" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="30" />
       </file>
@@ -253,7 +254,9 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Add backend for NewUserForm in forms.py</text>
+        <text>Log ins now actually work. For real.
+
+Registration doesn't though.</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -262,34 +265,36 @@
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLkFwcC5ydW4oKQo=</text>
+        <text encoding="base64">ICAgIHt7IGZvcm0uaGlkZGVuX3RhZygpIH19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>Add backend for NewUserForm in forms.py</text>
+        <text>Log ins now actually work. For real.
+
+Registration doesn't though.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsjICAgIENoZWNrcyB0byBzZWUgaWYgdXNlciBpcyBsb2dnZWQgaW4gb3Igbm90LiN9CiAgICB7JSBpZiBjdXJyZW50X3VzZXIuaXNfYW5vbnltb3VzICV9CiAgICAgIDxhIGhyZWY9Int7IHVybF9mb3IoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgogICAgeyUgZWxzZSAlfQogICAgICA8YSBocmVmPSJ7eyB1cmxfZm9yKCdsb2dvdXQnKSB9fSI+TG9naW48L2E+CiAgICB7JSBlbmRpZiAlfQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IDExLzAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KHVybF9mb3IoJ2luZGV4JykpCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IDEwLzAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBQZXJzb25hbCBub3RlOiAgZmxhc2goKSB0ZWxscyBGbGFzayB0byBzdG9yZSB0aGUgbWVzc2FnZSBmb3IgaXQgdG8gYmUgcmVuZGVyZWQgbGF0ZXIuCg==</text>
+        <text encoding="base64">IyBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8xNzMwOTg4OS9ob3ctdG8tZGVidWctYS1mbGFzay1hcHAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4KCg==</text>
+        <text encoding="base64">RkxBU0tfRU5WPWRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHAubW9kZWxzIGltcG9ydCBVc2VyCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGZvcm1zCg==</text>
+        <text encoding="base64">ICAgICMgSWYgZm9ybSBpcyB2YWxpZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBmb3JtcyBpbXBvcnQgTG9naW5Gb3JtCg==</text>
+        <text>Add backend for NewUserForm in forms.py</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwPnt7IGZvcm0ucmVtZW1iZXJfbWUoKSB9fSB7eyBmb3JtLnJlbWVtYmVyX21lLmxhYmVsIH19PC9wPgo=</text>
+        <text encoding="base64">ICAgIHsjICAgIENoZWNrcyB0byBzZWUgaWYgdXNlciBpcyBsb2dnZWQgaW4gb3Igbm90LiN9CiAgICB7JSBpZiBjdXJyZW50X3VzZXIuaXNfYW5vbnltb3VzICV9CiAgICAgIDxhIGhyZWY9Int7IHVybF9mb3IoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgogICAgeyUgZWxzZSAlfQogICAgICA8YSBocmVmPSJ7eyB1cmxfZm9yKCdsb2dvdXQnKSB9fSI+TG9naW48L2E+CiAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
