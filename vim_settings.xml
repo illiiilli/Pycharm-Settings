@@ -98,7 +98,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1590678039988">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1590689640479">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="13" />
+      </file>
+      <file name="/Python Console" timestamp="1590689599712">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO and Dev Notes.md" timestamp="1590669430648">
@@ -129,11 +133,11 @@
       <file name="/a.dummy" timestamp="1590671562673">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app.py" timestamp="1590680391686">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="5" column="39" />
-        <mark key="^" line="5" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app.py" timestamp="1590689647920">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/forms.py" timestamp="1590683387243" />
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.idea/PC-CITS3403-P2.iml" timestamp="1590675175329">
@@ -141,11 +145,6 @@
         <mark key="]" line="9" column="69" />
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="69" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590676058416">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/config.py" timestamp="1590655938392">
         <mark key="[" line="12" column="92" />
@@ -256,7 +255,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwPnt7IGZvcm0ucmVtZW1iZXJfbWUoKSB9fSB7eyBmb3JtLnJlbWVtYmVyX21lLmxhYmVsIH19PC9wPgo=</text>
+        <text encoding="base64">aW1wb3J0IGZvcm1zCg==</text>
       </register>
       <register name="-" type="4">
         <text>Taken</text>
@@ -265,30 +264,30 @@
         <text>idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxwPgogICAgICB7eyBmb3JtLnBhc3N3b3JkLmxhYmVsIH19PGJyPgogICAgICB7eyBmb3JtLnBhc3N3b3JkKHNpemU9MzIpIH19CiAgICAgIHslIGZvciBlcnJvciBpbiBmb3JtLnBhc3N3b3JkLmVycm9ycyAlfQogICAgICAgIDxzcGFuIHN0eWxlPSJjb2xvcjogcmVkOyI+W3t7IGVycm9yIH19XTwvc3Bhbj4KICAgICAgeyUgZW5kZm9yICV9CiAgICA8L3A+Cg==</text>
+        <text encoding="base64">YXBwLkFwcC5ydW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwPnt7IGZvcm0ucmVtZW1iZXJfbWUoKSB9fSB7eyBmb3JtLnJlbWVtYmVyX21lLmxhYmVsIH19PC9wPgo=</text>
+        <text encoding="base64">aW1wb3J0IGZvcm1zCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7IGZvcm0uaGlkZGVuX3RhZygpIH19CiAgICA8cD4KICAgICAge3sgZm9ybS51c2VybmFtZS5sYWJlbCB9fQoKICAgIDwvcD4K</text>
+        <text encoding="base64">ZnJvbSBmb3JtcyBpbXBvcnQgTG9naW5Gb3JtCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIDxwPnt7IGZvcm0ucmVtZW1iZXJfbWUoKSB9fSB7eyBmb3JtLnJlbWVtYmVyX21lLmxhYmVsIH19PC9wPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHt7IGZvcm0uaGlkZGVuX3RhZygpIH19CiAgICA8cD4KICAgICAge3sgZm9ybS51c2VybmFtZS5sYWJlbCB9fQoKICAgIDwvcD4K</text>
+      </register>
+      <register name="5" type="2">
         <text>Refactor t_UserAndStatement.py
 
 clear_database()</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHJlbWVtYmVyX21lID0gd3Rmb3Jtcy5Cb29sZWFuRmllbGQoJ1JlbWVtYmVyIE1lJykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXI=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIENsZWFycyB0aGUgZGF0YWJhc2UgYWZ0ZXIgdGVzdGluZwogICAgICAgIHVzZXJzID0gVXNlci5xdWVyeS5hbGwoKQogICAgICAgIGZvciB1IGluIHVzZXJzOgogICAgICAgICAgICBkYi5zZXNzaW9uLmRlbGV0ZSh1KQogICAgICAgIHN0YXRlbWVudHMgPSBTdGF0ZW1lbnQucXVlcnkuYWxsKCkKICAgICAgICBmb3IgcyBpbiBzdGF0ZW1lbnRzOgogICAgICAgICAgICBkYi5zZXNzaW9uLmRlbGV0ZShzKQogICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIENsZWFycyB0aGUgZGF0YWJhc2UgYmVmb3JlIHRlc3RpbmcKICAgICAgICB1c2VycyA9IFVzZXIucXVlcnkuYWxsKCkKICAgICAgICBmb3IgdSBpbiB1c2VyczoKICAgICAgICAgICAgZGIuc2Vzc2lvbi5kZWxldGUodSkKICAgICAgICBzdGF0ZW1lbnRzID0gU3RhdGVtZW50LnF1ZXJ5LmFsbCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVtZW50czoKICAgICAgICAgICAgZGIuc2Vzc2lvbi5kZWxldGUocykKICAgICAgICBkYi5zZXNzaW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgIHVzZXI=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIENsZWFycyB0aGUgZGF0YWJhc2UgYWZ0ZXIgdGVzdGluZwogICAgICAgIHVzZXJzID0gVXNlci5xdWVyeS5hbGwoKQogICAgICAgIGZvciB1IGluIHVzZXJzOgogICAgICAgICAgICBkYi5zZXNzaW9uLmRlbGV0ZSh1KQogICAgICAgIHN0YXRlbWVudHMgPSBTdGF0ZW1lbnQucXVlcnkuYWxsKCkKICAgICAgICBmb3IgcyBpbiBzdGF0ZW1lbnRzOgogICAgICAgICAgICBkYi5zZXNzaW9uLmRlbGV0ZShzKQogICAgICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
