@@ -111,7 +111,7 @@
         <mark key="^" line="25" column="2" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1590437523693">
+      <file name="/Python Console" timestamp="1590651327310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" timestamp="1590437246099">
@@ -136,12 +136,12 @@
         <mark key="^" line="17" column="60" />
         <mark key="." line="11" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO.md" timestamp="1590436575689">
-        <mark key="'" line="47" column="10" />
-        <mark key="[" line="74" column="74" />
-        <mark key="]" line="81" column="74" />
-        <mark key="^" line="81" column="74" />
-        <mark key="." line="81" column="73" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO.md" timestamp="1590651927486">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/__init__.py" timestamp="1590431960835">
         <mark key="]" line="8" column="93" />
@@ -228,12 +228,13 @@
       <jump line="47" column="10" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO.md" />
       <jump line="334" column="0" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" />
       <jump line="10" column="76" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/models.py" />
+      <jump line="6" column="10" filename="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/TODO.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>flask db migrate -m &quot;users table&quot;, flask db upgrade</text>
+        <text encoding="base64">ICAgICogd2FzIHByZXR0eSBuaWNlIGNvcyBpdCBhdXRvIGdlbm5lZCBTUUwgc3R1ZmYgZm9yIHVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>user.username</text>
@@ -245,34 +246,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRiLkNvbHVtbigndXNlcm5hbWUnLCBkYi5TdHJpbmcsIGRiLkZvcmVpZ25LZXkoJ3VzZXIudXNlcm5hbWUnKSwgcHJpbWFyeV9rZXk9VHJ1ZSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text>flask db migrate -m &quot;users table&quot;, flask db upgrade</text>
+        <text encoding="base64">ICAgICogd2FzIHByZXR0eSBuaWNlIGNvcyBpdCBhdXRvIGdlbm5lZCBTUUwgc3R1ZmYgZm9yIHVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjbGFzcyBTdGF0ZW1lbnQoZGIuTW9kZWwpOgojICAgICBzID0gZGIuQ29sdW1uKGRiLlN0cmluZywgcHJpbWFyeV9rZXk9VHJ1ZSwgbnVsbGFibGU9RmFsc2UpCiMKIyAgICAgZGVmIF9fcmVwcl9fKHNlbGYpOgojICAgICAgICAgcmV0dXJuICI8U3RhdGVtZW50OiAiICsgc2VsZi5zICsgIj4iCiMKIwojIGNsYXNzIFVzZXJTdGF0ZW1lbnRBbnN3ZXIoZGIuTW9kZWwpOgojICAgICB1ID0gZGIuQ29sdW1uKGRiLlN0cmluZywgZGIuRm9yZWlnbktleShVc2VyLnVzZXJuYW1lKSwgcHJpbWFyeV9rZXk9VHJ1ZSkKIyAgICAgcyA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIGRiLkZvcmVpZ25LZXkoU3RhdGVtZW50LnMpLCBwcmltYXJ5X2tleT1UcnVlKQojICAgICBhID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIG51bGxhYmxlPUZhbHNlKQojCiMgICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKIyAgICAgICAgIHJldHVybiAiPFVzZXJuYW1lOiAiICsgc2VsZi51ICsgIjsgU3RhdGVtZW50OiAiICsgc2VsZi5zICsgIjsgQW5zd2VyOiAiICsgc2VsZi5hICsgIj4iCg==</text>
+        <text encoding="base64">KiBXaGF0IEVSRCBzb2Z0d2FyZSB3ZSB1c2VkIGJhY2sgaW4gQ0lUUzE0MDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>flask db migrate -m &quot;users table&quot;, flask db upgrade</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxVc2VybmFtZTogIiArIHNlbGYudXNlcm5hbWUgKyAiOyBQYXNzd29yZCBIYXNoOiAiICsgc2VsZi5wYXNzd29yZGhhc2ggKyAiOyBJcyBBZG1pbjogIiArIHNlbGYuYWRtaW4gKyAiPiIK</text>
+        <text encoding="base64">IyBjbGFzcyBTdGF0ZW1lbnQoZGIuTW9kZWwpOgojICAgICBzID0gZGIuQ29sdW1uKGRiLlN0cmluZywgcHJpbWFyeV9rZXk9VHJ1ZSwgbnVsbGFibGU9RmFsc2UpCiMKIyAgICAgZGVmIF9fcmVwcl9fKHNlbGYpOgojICAgICAgICAgcmV0dXJuICI8U3RhdGVtZW50OiAiICsgc2VsZi5zICsgIj4iCiMKIwojIGNsYXNzIFVzZXJTdGF0ZW1lbnRBbnN3ZXIoZGIuTW9kZWwpOgojICAgICB1ID0gZGIuQ29sdW1uKGRiLlN0cmluZywgZGIuRm9yZWlnbktleShVc2VyLnVzZXJuYW1lKSwgcHJpbWFyeV9rZXk9VHJ1ZSkKIyAgICAgcyA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIGRiLkZvcmVpZ25LZXkoU3RhdGVtZW50LnMpLCBwcmltYXJ5X2tleT1UcnVlKQojICAgICBhID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIG51bGxhYmxlPUZhbHNlKQojCiMgICAgIGRlZiBfX3JlcHJfXyhzZWxmKToKIyAgICAgICAgIHJldHVybiAiPFVzZXJuYW1lOiAiICsgc2VsZi51ICsgIjsgU3RhdGVtZW50OiAiICsgc2VsZi5zICsgIjsgQW5zd2VyOiAiICsgc2VsZi5hICsgIj4iCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIjxVc2VybmFtZTogIiArIHNlbGYudXNlcm5hbWUgKyAiOyBQYXNzd29yZCBIYXNoOiAiICsgc2VsZi5wYXNzd29yZGhhc2ggKyAiOyBJcyBBZG1pbjogIiArIHNlbGYuYWRtaW4gKyAiPiIK</text>
+      </register>
+      <register name="7" type="2">
         <text>Remove other columns
 
 Done to test out flask db migrate and flask db upgrade
 Should do this in a non production branch but whatever</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFkbWluID0gZGIuQ29sdW1uKGRiLkJPT0xFQU4sIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkaGFzaCA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIG51bGxhYmxlPUZhbHNlKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVXNlcihkYi5Nb2RlbCk6CiAgICB1c2VybmFtZSA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIHByaW1hcnlfa2V5PVRydWUsIG51bGxhYmxlPUZhbHNlKQogICAgcGFzc3dvcmRoYXNoID0gZGIuQ29sdW1uKGRiLlN0cmluZywgbnVsbGFibGU9RmFsc2UpCiAgICBhZG1pbiA9IGRiLkNvbHVtbihkYi5CT09MRUFOLCBudWxsYWJsZT1GYWxzZSkKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuICI8VXNlcm5hbWU6ICIgKyBzZWxmLnVzZXJuYW1lICsgIjsgUGFzc3dvcmQgSGFzaDogIiArIHNlbGYucGFzc3dvcmRoYXNoICsgIjsgSXMgQWRtaW46ICIgKyBzZWxmLmFkbWluICsgIj4iCiAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkaGFzaCA9IGRiLkNvbHVtbihkYi5TdHJpbmcsIG51bGxhYmxlPUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
