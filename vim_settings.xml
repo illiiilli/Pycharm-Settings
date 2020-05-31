@@ -105,8 +105,8 @@
         <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1590689640479">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="13" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="13" />
       </file>
       <file name="/Python Console" timestamp="1590700851837">
         <mark key="[" line="0" column="0" />
@@ -150,11 +150,11 @@
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590701545030">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="17" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1590905490432">
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="39" column="52" />
+        <mark key="^" line="39" column="52" />
+        <mark key="." line="39" column="51" />
       </file>
       <file name="/a.sql" timestamp="1590691046034">
         <mark key="[" line="0" column="0" />
@@ -254,9 +254,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Log ins now actually work. For real.
-
-Registration doesn't though.</text>
+        <text>Known issues: registering with the page does not work</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -268,33 +266,33 @@ Registration doesn't though.</text>
         <text encoding="base64">ICAgIHt7IGZvcm0uaGlkZGVuX3RhZygpIH19Cg==</text>
       </register>
       <register name="1" type="2">
+        <text>Known issues: registering with the page does not work</text>
+      </register>
+      <register name="2" type="2">
         <text>Log ins now actually work. For real.
 
 Registration doesn't though.</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJlc3VsdCA9IDExLzAK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJlc3VsdCA9IDEwLzAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">IyBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8xNzMwOTg4OS9ob3ctdG8tZGVidWctYS1mbGFzay1hcHAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">RkxBU0tfRU5WPWRldmVsb3BtZW50Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICMgSWYgZm9ybSBpcyB2YWxpZAo=</text>
       </register>
-      <register name="8" type="2">
-        <text>Add backend for NewUserForm in forms.py</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsjICAgIENoZWNrcyB0byBzZWUgaWYgdXNlciBpcyBsb2dnZWQgaW4gb3Igbm90LiN9CiAgICB7JSBpZiBjdXJyZW50X3VzZXIuaXNfYW5vbnltb3VzICV9CiAgICAgIDxhIGhyZWY9Int7IHVybF9mb3IoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgogICAgeyUgZWxzZSAlfQogICAgICA8YSBocmVmPSJ7eyB1cmxfZm9yKCdsb2dvdXQnKSB9fSI+TG9naW48L2E+CiAgICB7JSBlbmRpZiAlfQo=</text>
+        <text>Add backend for NewUserForm in forms.py</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
