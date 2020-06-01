@@ -247,11 +247,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Simple merge with the master branch, no major additions</text>
+      <register name="&quot;" type="4">
+        <text>aaaaaaaaaaaaaaaa</text>
       </register>
       <register name="-" type="4">
-        <text>register</text>
+        <text>aaaaaaaaaaaaaaaa</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
