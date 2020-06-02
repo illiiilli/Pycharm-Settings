@@ -92,12 +92,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591085911551">
+      <file name="/Dummy.txt" timestamp="1591089820652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1591088365208">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/__main__.py" timestamp="1591089168480">
         <mark key="[" line="11" column="30" />
       </file>
       <file name="/Python Console" timestamp="1591084470664">
@@ -133,18 +133,24 @@
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/templates/style.css" timestamp="1591089813819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/README.md" timestamp="1591080102246">
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="45" column="6" />
-        <mark key="^" line="45" column="6" />
-        <mark key="." line="45" column="5" />
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+        <mark key="." line="43" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/.gitignore" timestamp="1591079891709">
         <mark key="[" line="342" column="0" />
         <mark key="]" line="342" column="0" />
         <mark key="." line="342" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1591089095404">
+      <file name="$USER_HOME$/PycharmProjects/PC-CITS3403-P2/src/app/routes.py" timestamp="1591089159552">
         <mark key="[" line="54" column="27" />
         <mark key="]" line="54" column="43" />
         <mark key="^" line="54" column="43" />
@@ -228,8 +234,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGlucHV0IHR5cGU9Im51bWJlciIgdmFsdWU9IjAiIHN0ZXA9ImFueSIgcmVxdWlyZWQvPg==</text>
+      <register name="&quot;" type="2">
+        <text>GET and POST methods to /admin</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGlucHV0IHR5cGU9Im51bWJlciIgdmFsdWU9IjAiIHN0ZXA9ImFueSIgcmVxdWlyZWQvPg==</text>
@@ -241,31 +247,31 @@
         <text encoding="base64">ICAgICMgVGhpcyBpcyBqdXN0IHRlbXBvcmFyeSwgSSBjYW4ndCBmaWd1cmUgaG93IGVsc2UgdG8gYWRkIHVzZXJzLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgVGhpcyBpcyBqdXN0IAo=</text>
+        <text>GET and POST methods to /admin</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICMgVGhpcyBpcyBqdXN0IAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNsZWFyX2RhdGFiYXNlKCk6CiAgICAjIENsZWFycyB0aGUgZGF0YWJhc2UgYmVmb3JlIHRlc3RpbmcKICAgIHVzZXJzID0gVXNlci5xdWVyeS5hbGwoKQogICAgZm9yIHUgaW4gdXNlcnM6CiAgICAgICAgZGIuc2Vzc2lvbi5kZWxldGUodSkKICAgIHN0YXRlbWVudHMgPSBTdGF0ZW1lbnQucXVlcnkuYWxsKCkKICAgIGZvciBzIGluIHN0YXRlbWVudHM6CiAgICAgICAgZGIuc2Vzc2lvbi5kZWxldGUocykKICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudHMgPSBbCiAgICAgICAgewogICAgICAgICAgICAnYXV0aG9yJzogeyd1c2VybmFtZSc6ICdKb2UnfSwKICAgICAgICAgICAgJ2JvZHknOiAnQ29udHJvdmVyc2lhbCBzdGF0ZW1lbnRzIHNob3VsZCBub3QgYmUgaW5jbHVkZWQgaW4gdGVzdCBzdGF0ZW1lbnRzLCBkdW1teScsCiAgICAgICAgICAgICdwb3B1bGFyaXR5JzogMAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAnYXV0aG9yJzogeyd1c2VybmFtZSc6ICdBbGFuJ30sCiAgICAgICAgICAgICdib2R5JzogJ1VXQSBzaG91bGQgbm90IHVzZSBFeGFtcGxpZnksIGR1bW15JywKICAgICAgICAgICAgJ3BvcHVsYXJpdHknOiAxMzM3CiAgICAgICAgfQogICAgXQo=</text>
+        <text encoding="base64">ZGVmIGNsZWFyX2RhdGFiYXNlKCk6CiAgICAjIENsZWFycyB0aGUgZGF0YWJhc2UgYmVmb3JlIHRlc3RpbmcKICAgIHVzZXJzID0gVXNlci5xdWVyeS5hbGwoKQogICAgZm9yIHUgaW4gdXNlcnM6CiAgICAgICAgZGIuc2Vzc2lvbi5kZWxldGUodSkKICAgIHN0YXRlbWVudHMgPSBTdGF0ZW1lbnQucXVlcnkuYWxsKCkKICAgIGZvciBzIGluIHN0YXRlbWVudHM6CiAgICAgICAgZGIuc2Vzc2lvbi5kZWxldGUocykKICAgIGRiLnNlc3Npb24uY29tbWl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudHMgPSAK</text>
+        <text encoding="base64">ICAgIHN0YXRlbWVudHMgPSBbCiAgICAgICAgewogICAgICAgICAgICAnYXV0aG9yJzogeyd1c2VybmFtZSc6ICdKb2UnfSwKICAgICAgICAgICAgJ2JvZHknOiAnQ29udHJvdmVyc2lhbCBzdGF0ZW1lbnRzIHNob3VsZCBub3QgYmUgaW5jbHVkZWQgaW4gdGVzdCBzdGF0ZW1lbnRzLCBkdW1teScsCiAgICAgICAgICAgICdwb3B1bGFyaXR5JzogMAogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAnYXV0aG9yJzogeyd1c2VybmFtZSc6ICdBbGFuJ30sCiAgICAgICAgICAgICdib2R5JzogJ1VXQSBzaG91bGQgbm90IHVzZSBFeGFtcGxpZnksIGR1bW15JywKICAgICAgICAgICAgJ3BvcHVsYXJpdHknOiAxMzM3CiAgICAgICAgfQogICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcm0gPQo=</text>
+        <text encoding="base64">ICAgIHN0YXRlbWVudHMgPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBRdWl6IFJlc3VsdHMK</text>
+        <text encoding="base64">ICAgIGZvcm0gPQo=</text>
       </register>
       <register name="9" type="2">
-        <text>Refactor testing class, and link to it from README.md</text>
+        <text encoding="base64">ICBRdWl6IFJlc3VsdHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
