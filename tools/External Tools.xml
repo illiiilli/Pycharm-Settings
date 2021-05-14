@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Black " description="Black is the uncompromising Python code formatter." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\Alan Chen Desktop\CITS3002-Project-2021\venv\Scripts\black.exe" />
+      <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/CITS3002-Project-2021/venv/Scripts" />
+    </exec>
+  </tool>
+</toolSet>
