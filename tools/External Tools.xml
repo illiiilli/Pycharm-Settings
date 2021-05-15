@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\Alan Chen Desktop\CITS3002-Project-2021\venv\Scripts\black.exe" />
       <option name="PARAMETERS" value="&quot;$FilePath$&quot;" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/CITS3002-Project-2021/venv/Scripts" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Alan Chen Desktop/CITS3002-Project-2021/venv/Scripts" />
     </exec>
   </tool>
 </toolSet>
