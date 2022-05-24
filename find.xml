@@ -1,7 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\code\Task3.ipynb'" />
-    <option name="defaultScopeName" value="File '…\code\Task3.ipynb'" />
-    <option name="SEARCH_SCOPE" value="File '…\code\Task3.ipynb'" />
+    <option name="customScope" value="Project 'CITS3002-Project-Rakefile'" />
+    <option name="defaultScopeName" value="Project 'CITS3002-Project-Rakefile'" />
+    <option name="SEARCH_SCOPE" value="Project 'CITS3002-Project-Rakefile'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
   </component>
 </application>
